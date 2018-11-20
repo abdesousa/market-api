@@ -1,0 +1,16 @@
+/Users/alexandrebs/Documents/workspace/eclipse/market-api/src/main/java/com/epam/test/market/api/Teste.java
+/Users/alexandrebs/Documents/workspace/eclipse/market-api/src/main/java/com/epam/test/market/api/model/Representation.java
+/Users/alexandrebs/Documents/workspace/eclipse/market-api/src/main/java/com/epam/test/market/api/MarketApiApplication.java
+/Users/alexandrebs/Documents/workspace/eclipse/market-api/src/main/java/com/epam/test/market/api/persistence/SupplierDao.java
+/Users/alexandrebs/Documents/workspace/eclipse/market-api/src/main/java/com/epam/test/market/api/auth/MarketApiAuthenticator.java
+/Users/alexandrebs/Documents/workspace/eclipse/market-api/src/main/java/com/epam/test/market/api/persistence/SupplierMapper.java
+/Users/alexandrebs/Documents/workspace/eclipse/market-api/src/main/java/com/epam/test/market/api/persistence/PotatoesBagDao.java
+/Users/alexandrebs/Documents/workspace/eclipse/market-api/src/main/java/com/epam/test/market/api/auth/MarketApiAuthorizer.java
+/Users/alexandrebs/Documents/workspace/eclipse/market-api/src/main/java/com/epam/test/market/api/resource/PotatoesBagResource.java
+/Users/alexandrebs/Documents/workspace/eclipse/market-api/src/main/java/com/epam/test/market/api/model/User.java
+/Users/alexandrebs/Documents/workspace/eclipse/market-api/src/main/java/com/epam/test/market/api/service/PotatoesBagService.java
+/Users/alexandrebs/Documents/workspace/eclipse/market-api/src/main/java/com/epam/test/market/api/persistence/PotatoesBagMapper.java
+/Users/alexandrebs/Documents/workspace/eclipse/market-api/src/main/java/com/epam/test/market/api/health/MarketApiHealthCheck.java
+/Users/alexandrebs/Documents/workspace/eclipse/market-api/src/main/java/com/epam/test/market/api/model/Supplier.java
+/Users/alexandrebs/Documents/workspace/eclipse/market-api/src/main/java/com/epam/test/market/api/MarketApiConfiguration.java
+/Users/alexandrebs/Documents/workspace/eclipse/market-api/src/main/java/com/epam/test/market/api/model/PotatoesBag.java
